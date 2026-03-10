@@ -1,0 +1,39 @@
+#Compiled class files
+*.class
+*.class.bak
+
+#Log Files
+*.log
+logs/
+*.log.gz
+
+#Build Output
+target/
+build/
+.gradle/
+.settings/
+.project/
+.classpath/
+
+#IDE specific files
+.idea/
+*.iml
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+
+#Local configuration (Sensitive)
+application.properties 
+application.yml 
+#Use application-local.yml for secrets instead
+
+#OS Specific
+.DS_Store
+Thumbs.db
+
+#Executables and libraries
+*.jar
+*.war
+*.ear
