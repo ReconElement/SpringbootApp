@@ -1,0 +1,3 @@
+1. Make a database schema and migration 
+2. Write the endpoints and do the standard CRUD stuff
+3. This backend application strictly deals with Posts{id, title, content}
